@@ -1,2 +1,2 @@
 # python-helloworld
-Testing beta 1
+Testing beta
